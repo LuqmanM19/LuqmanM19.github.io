@@ -153,4 +153,16 @@ color: #FFF;
 font-family: 'Fredericka the Great', cursive;
 }
 
+.poster h1{
+font-size: 60px;
+text-align: center;
+color: #FFF;
+font-family: 'Fredericka the Great', cursive;
+}
+
+.poster .poster{
+  width: 35%;
+  margin: 2%;
+}
+
 
